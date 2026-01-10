@@ -77,8 +77,35 @@
 
 ---
 
+## 📈 GitHub Analytics
+
 <div align="center">
   
-⭐️ *Открыт к сотрудничеству и интересным проектам!*
+<table>
+  <tr>
+    <!-- Карточка профиля (широкая) -->
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curseofuselessness&theme=github_dark" height="180" alt="Profile Details"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Статистика и время -->
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curseofuselessness&theme=github_dark" height="180" alt="GitHub Stats"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=curseofuselessness&theme=github_dark&utcOffset=3" height="180" alt="Productive Time"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Языки в коммитах и репозиториях -->
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=curseofuselessness&theme=github_dark" height="180" alt="Most Commit Language"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curseofuselessness&theme=github_dark" height="180" alt="Repos per Language"/>
+    </td>
+  </tr>
+</table>
 
 </div>
