@@ -13,7 +13,7 @@
 
 ## 👨‍🎓 Обо мне
 
-Студент-математик и начинающий full-stack разработчик. Обладаю аналитическим складом ума и практическими навыками в веб-разработке. Ищу стажировку или позицию Junior разработчика для профессионального роста.
+Студент-математик и начинающий data scientist. Обладаю аналитическим складом ума и практическими навыками в веб-разработке. Ищу стажировку или позицию Junior/Trainee разработчика для профессионального роста.
 
 **Образование:** Белорусский государственный университет, ФПМИ, 2028  
 **Специальность:** Прикладная математика
@@ -25,6 +25,18 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -33,38 +45,47 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
-  <img width="12" />
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vd06gl7sk12v4f9bp2j.png" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40"/>
   <img width="12" />
+ 
 </div>
 
 ---
 
 ## 📚 Навыки и знания
 
-### **Языки программирования и фреймворки:**
+### **Data Science & Machine Learning**
+- **Python Data Stack:** NumPy, Pandas, Matplotlib, Seaborn (основные библиотеки для анализа и визуализации)
+- **Machine Learning:** Scikit-learn (алгоритмы классификации, регрессии, кластеризации)
+- **Data Analysis:** Exploratory Data Analysis (EDA), data cleaning, feature analysis
+- **Инструменты анализа:** Jupyter Notebook (основная среда для исследований)
+- **Базы данных:** SQL (базовые запросы, работа с данными)
+- **ML Deployment:** Flask (прототипирование API для моделей ML)
+
+### **Языки программирования и фреймворки**
 - **C++** (CMake, Google Test, многопоточность)
 - **Java** (Maven)
-- **Python** (Flask)
+- **Python** (Flask, DS-стек)
 - **JavaScript, HTML5, CSS3**
 - **Qt** для разработки GUI
 
-### **Математические дисциплины:**
+### **Математические дисциплины**
 - Линейная алгебра
 - Математический анализ
 - Дискретная математика
+- Теория вероятностей и статистика
 - Алгоритмы и структуры данных
 
-### **Инструменты и другие навыки:**
-- **Git**, GitHub
-- Английский язык **B1** (Intermediate)
-- Системы сборки: **CMake**, **Maven**
-- Многопоточное программирование
+### **Инструменты и другие навыки**
+- **Version Control:** Git, GitHub
+- **Data Science Environment:** Jupyter Notebook
+- **Английский язык:** B1 (Intermediate) 
+- **Системы сборки:** CMake, Maven
+- **Параллельное программирование:** многопоточность (C++)
 
 ---
 
