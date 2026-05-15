@@ -2,6 +2,8 @@
 
 # KIRYL LEVIN 
 
+## <center>[Resume | Резюме](https://canva.link/bahujppvtgbl7ln)</center>
+
 ### Trainee Data Scientist | Студент-математик
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqqurateew@gmail.com)
