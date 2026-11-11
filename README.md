@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqqurateew@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aqqurateew)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiryl-levin/)
-[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://www.canva.com/design/DAGcMUJ0nrg/aHXG1M1Ow_PQlsz6dh3Z2Q/view?utm_content=DAGcMUJ0nrg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
   
 </div>
 
